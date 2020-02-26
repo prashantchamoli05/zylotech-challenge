@@ -2,9 +2,9 @@
 Full stack app challenge
 
 ## Quick Start
-## Clone/Download the project on your machine, and make sure you have node and npm installed.
+## Clone/Download the project on your machine and extract the folder. Make sure you have node and npm installed.
 
-## On your terminal, enter the project folder
+## On your terminal, enter the project folder zylotech-challenge-master 
 ### Install server dependencies
 
 ```bash
