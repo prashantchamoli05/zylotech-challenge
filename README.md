@@ -21,6 +21,7 @@ npm install
 ### Exit from the client folder and run both Express & React from root by following the below command
 
 ```bash
+cd..
 npm run dev
 ```
 ### The application will open in browser on localhost port 3000.
